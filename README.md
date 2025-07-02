@@ -20,7 +20,7 @@ This project demonstrates the combination of computer vision, model training, an
 
 | Frontend | Backend | ML & CV |
 |----------|---------|---------|
-| HTML, JavaScript, Canvas API | Flask (Python) | TensorFlow, OpenCV, NumPy |
+| React Native, JavaScript, Canvas API | Flask (Python) | TensorFlow, OpenCV, NumPy |
 |  |  | Trained on IAM & MINT datasets |
 
 
