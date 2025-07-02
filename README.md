@@ -1,6 +1,6 @@
 # ✍️ Handwriting Recognition App (HWR App)
 
-A handwriting recognition web application that detects and classifies handwritten characters using deep learning. The model is trained on the IAM and MINT handwriting datasets and integrated into a Flask-based web app for interactive predictions.
+A handwriting recognition web application that detects and classifies handwritten characters using deep learning. The model is trained on the IAM and MNIST handwriting datasets and integrated into a Flask-based web app for interactive predictions.
 
 
 
